@@ -19,8 +19,10 @@ I am Dr. John Smith, a researcher working on large language models, contextual r
 
 ## Open-source code
 
-Code repositories corresponding to papers that were already accepted or published are available when released:
+Code repositories corresponding to accepted or published papers are available when released:
 
+- **“Ipsum Lorem is all you need”** — code released: [Daemonflovibrate27/ipsum-lorem-all-you-need](https://github.com/Daemonflovibrate27/ipsum-lorem-all-you-need)
+- **“Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments”** — repository is public but currently marked **to be released**: [Daemonflovibrate27/optimizing-llms-contextual-reasoning](https://github.com/Daemonflovibrate27/optimizing-llms-contextual-reasoning)
 - **“Adaptive Learning Strategies for Large Language Models in Dynamic Environments”** — code released: [Daemonflovibrate27/llm-adaptive-learning](https://github.com/Daemonflovibrate27/llm-adaptive-learning)
 - **“Enhancing Large Language Models with Advanced Fine-Tuning Techniques”** — code released: [Daemonflovibrate27/enhancing-llms](https://github.com/Daemonflovibrate27/enhancing-llms)
 
